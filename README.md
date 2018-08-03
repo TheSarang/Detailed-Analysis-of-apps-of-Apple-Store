@@ -1,6 +1,6 @@
-# Detailed-Analysis-of-apps-of-Apple-Store
+# Detailed analysis of apps of apple store
 
-Exploratory Data Analysis on Apple iOS app store data.
+Exploratory Data Analysis on apple iOS app store data.
 
 # Dataset Information
 
