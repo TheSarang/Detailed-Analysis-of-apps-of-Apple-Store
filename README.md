@@ -9,4 +9,4 @@ This data set contains more than 7000 Apple iOS mobile application details. The 
 While iOS holds 43% of the smartphone market, to increase the influence, it is important to know which kind of apps in which specific genre will help occupying the market more. By doing the detail analysis on the dataset, one will be able to see that. One will be able to see which genre is costliest, which apps/genres are popular.
 
 ## Dataset Link
-Data can be found on this website https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
+Data can be found on this website https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps.
