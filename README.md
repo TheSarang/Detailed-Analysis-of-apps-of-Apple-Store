@@ -1,4 +1,4 @@
-# Detailed analysis of apps of apple store
+# Detailed analysis of apple store apps
 
 Exploratory Data Analysis (EDA) on apple iOS app store data.
 
