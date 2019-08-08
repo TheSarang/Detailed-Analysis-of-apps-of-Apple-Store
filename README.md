@@ -1,6 +1,6 @@
 # Detailed analysis of apple store apps
 
-An Exploratory Data Analysis (EDA) on an apple iOS app store data.
+An Exploratory Data Analysis (EDA) on iOS apps store data.
 
 ## Dataset Information
 
